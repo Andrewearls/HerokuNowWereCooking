@@ -1,3 +1,7 @@
 body{
-	background-color: red;
+	
+}
+
+.outline {
+	border: 1px solid gray;
 }
