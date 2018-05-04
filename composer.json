@@ -50,7 +50,7 @@
         ]
     },
     "config": {
-        "preferred-install": "source",
+        "preferred-install": "stable",
         "sort-packages": true,
         "optimize-autoloader": true
     },
